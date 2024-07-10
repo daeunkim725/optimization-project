@@ -1,6 +1,6 @@
 # optimization-project
 
-# House Price Modeling
+## House Price Modeling
 You are given data about houses and are tasked with building a model to predict the sell price of these houses. For the data, you have 545 total samples with 11 features:
 
 | Feature          | Description |
@@ -25,3 +25,5 @@ To model prices, you decide to build a linear model. That is, your goal is to de
 For this project, we will fit the linear model and handle the nonnegativity in a few different ways.
 
 Run the following cells to import the data. Note that after importing the data and separating out $X$ and $y$, we prepend a column of ones to the feature matrices in order to learn an offset.
+
+
